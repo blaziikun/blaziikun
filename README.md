@@ -1,5 +1,4 @@
-## swags
-
+```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀            sayel@blaziikun
 ⠀⠀⠀⠀⢀⡤⠖⠋⠉⠉⠉⠉⠙⠲⣦⣀⠀⠀⠀⠀⠀            ---------------------------------------
 ⠀⠀⠀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀            OS: ............ Arch, macOS, Windows 11
@@ -12,8 +11,9 @@
 ⢰⣧⣿⣿⣿⣦⣉⡐⠒⠒⢲⣿⣿⣿⣿⣿⣿⣶⣿⣧⠀            Site: ........................ sayel.dev            
 ⠘⠿⢿⣿⣿⣿⡿⠿⠛⠿⠿⠿⣿⣿⣿⣿⣿⣿⡿⠟⠀                                      
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠀⠀⠀⠀                                      stay swaggy :)
-
+```
 <!--
+## swags
 **blaziikun/blaziikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
