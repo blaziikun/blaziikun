@@ -1,6 +1,17 @@
 ## swags
 
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀            sayel@blaziikun
+⠀⠀⠀⠀⢀⡤⠖⠋⠉⠉⠉⠉⠙⠲⣦⣀⠀⠀⠀⠀⠀            ---------------------------------------
+⠀⠀⠀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀            OS: ............ Arch, macOS, Windows 11
+⠀⠀⡼⢁⡠⢼⠁⠀⢱⢄⣀⠀⠀⠀⠀⠀⠎⢿⡄⠀⠀            WM: ........................... Hyprland
+⠀⣸⠁⠀⣧⣼⠀⠀⣧⣼⠉⠀⠀⠀⠀⠀⠐⢬⣷⠀⠀            Shell: .................. zsh + Starship
+⡼⣿⢀⠀⣿⡟⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⢹⣧⠀            Editor: ................... Neovim + Zed
+⣇⢹⠀⠁⠈⠀⠉⠃⠈⠃⠀⠀⠀⠀⠀⠀⠀⠀⡰⢸⡇            Terminal: ...... Ghostty, kitty, WezTerm
+⠙⢿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣏⣈⣉⣤⠿⠁            Font: .............. IBM Plex Mono Light
+⠀⣠⣾⣿⠤⡀⠀⠀⠀⠀⠀⢀⣤⣶⣿⣿⣿⣿⣅⠀⠀            Theme: ......... sayel-night, sayu-light
+⢰⣧⣿⣿⣿⣦⣉⡐⠒⠒⢲⣿⣿⣿⣿⣿⣿⣶⣿⣧⠀            Site: ........................ sayel.dev            
+⠘⠿⢿⣿⣿⣿⡿⠿⠛⠿⠿⠿⣿⣿⣿⣿⣿⣿⡿⠟⠀                                      
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠀⠀⠀⠀                                      stay swaggy :)
 
 <!--
 **blaziikun/blaziikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
